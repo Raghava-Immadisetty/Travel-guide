@@ -1,0 +1,26 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  width: 35vw;
+  font-family: roboto;
+  padding-left: 0px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+}
+.description-container {
+  background-color: white;
+  padding: 10px;
+}
+.img {
+  width: 100%;
+}
+
+.heading {
+  font: 14px;
+  font-weight: 300;
+}
+
+.description {
+  font-size: 14spx;
+  color: #64748b;
+}
